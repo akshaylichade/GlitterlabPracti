@@ -1,4 +1,4 @@
-package com.glitterlab.examplestack;
+package com.glitterlab.exampleStack;
 
 /**
  * Program to implement Stack Operatios.

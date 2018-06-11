@@ -1,4 +1,4 @@
-package com.glitterlab.examplequeue;
+package com.glitterlab.exampleQueue;
 /*
 Program to Perform Enqueue, Dequeue operation on Queue
  */
